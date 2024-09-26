@@ -12,6 +12,7 @@
     "@chenfengyuan/vue-barcode": "^2.0.2",
     "html2pdf.js": "^0.10.2",
     "jsbarcode": "^3.11.6",
+    "uuid": "^10.0.0",
     "vue": "^3.4.37"
   },
   "devDependencies": {
